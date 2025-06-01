@@ -7,7 +7,7 @@ const user = require('./user');
 
 const auth = require('./Middleware/auth');
 const notFound = require('./Middleware/notFound');
-const index = require('./Middleware/Index');
+const index = require('./Middleware/index');
 const cors = require('./Middleware/cors');
 
 app.use(cors);
