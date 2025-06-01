@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "An API usin express.js",
+  "keywords": [
+    "api",
+    "rest",
+    "express",
+    "node.js"
+  ],
+  "license": "ISC",
+  "author": "Adri MS",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
